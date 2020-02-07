@@ -15,7 +15,6 @@
 		9FFF3DA023EB4EF300C62C3D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FFF3D9F23EB4EF300C62C3D /* Preview Assets.xcassets */; };
 		9FFF3DA323EB4EF300C62C3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FFF3DA123EB4EF300C62C3D /* LaunchScreen.storyboard */; };
 		9FFF3DAE23EB4EF300C62C3D /* clickerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FFF3DAD23EB4EF300C62C3D /* clickerTests.swift */; };
-		9FFF3DB923EB532B00C62C3D /* Image.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FFF3DB823EB532A00C62C3D /* Image.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,7 +40,6 @@
 		9FFF3DA923EB4EF300C62C3D /* clickerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = clickerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FFF3DAD23EB4EF300C62C3D /* clickerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = clickerTests.swift; sourceTree = "<group>"; };
 		9FFF3DAF23EB4EF300C62C3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9FFF3DB823EB532A00C62C3D /* Image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Image.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,7 +86,6 @@
 				9FFF3D9A23EB4EEF00C62C3D /* ContentView.swift */,
 				9FFF3D9C23EB4EF300C62C3D /* Assets.xcassets */,
 				9FFF3DA123EB4EF300C62C3D /* LaunchScreen.storyboard */,
-				9FFF3DB823EB532A00C62C3D /* Image.png */,
 				9FFF3DA423EB4EF300C62C3D /* Info.plist */,
 				9FFF3D9723EB4EEF00C62C3D /* clicker.xcdatamodeld */,
 				9FFF3D9E23EB4EF300C62C3D /* Preview Content */,
@@ -196,7 +193,6 @@
 			files = (
 				9FFF3DA323EB4EF300C62C3D /* LaunchScreen.storyboard in Resources */,
 				9FFF3DA023EB4EF300C62C3D /* Preview Assets.xcassets in Resources */,
-				9FFF3DB923EB532B00C62C3D /* Image.png in Resources */,
 				9FFF3D9D23EB4EF300C62C3D /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
